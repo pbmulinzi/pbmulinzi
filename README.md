@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pbmulinzi
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning the basics
+- 👀 I’m interested in OSCA-Kampala.
+- 🌱 I’m currently learning C and flutter
 - 💞️ I’m looking to learn from senior people here, and perhaps collaborate on development related projects
 - 📫 How to reach me: pbmulinzi@gmail.com
 
