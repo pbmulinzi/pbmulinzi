@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @pbmulinzi
-- 👀 I’m interested in OSCA-Kampala.
-- 🌱 I’m currently learning C and flutter
-- 💞️ I’m looking to learn from senior people here, and perhaps collaborate on development related projects
-- 📫 How to reach me: pbmulinzi@gmail.com
+- 👋 Hi, I’m Peter Mulinzi
+- I'm based in Kampala, Uganda.
+- You can contact me at pbmulinzi@gmail.com
+- 🌱 I’m currently learning C
+- 💞️ I’m diligent with studying and writing code, I look forward to learning from senior people here, and perhaps collaborate on development related projects
 
 <!---
 pbmulinzi/pbmulinzi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
