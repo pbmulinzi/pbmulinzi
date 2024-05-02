@@ -1,6 +1,6 @@
 - 👋 Hi, I am Peter Bukama Mulinzi
 - I'm an undergraduate student at Makerere University, Kampala, Uganda.
-- You can contact me at pbmulinzi@gmail.com
+- You can contact me through my email; pbmulinzi@gmail.com
 - I can code in C
 - 🌱 I am currently learning Python and Java
 - 💞️ I’m diligent and passionate about studying and writing code.
