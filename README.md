@@ -4,7 +4,7 @@
 - I can code in C
 - 🌱 I’m currently learning Python and Java
 - 💞️ I’m painstaking with studying and writing code.
-- I look forward to connecting and learning from senior people here, perhaps collaborate on development related projects as well.
+- I look forward to connecting and learning from senior people here and perhaps collaborating on development-related projects as well.
 
 <!---
 pbmulinzi/pbmulinzi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
