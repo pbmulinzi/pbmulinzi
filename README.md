@@ -2,7 +2,7 @@
 - I'm an undergraduate student at Makerere University, Kampala, Uganda.
 - You can contact me through my email; pbmulinzi@gmail.com
 - #HTML #CSS #Python_flask
-- 🌱 I am currently learning Python and Java
+- 🌱 I am currently learning more Python
 - 💞️ I’m diligent and passionate about studying and writing code.
 - I look forward to connecting and learning from senior people here and perhaps collaborating on development-related projects.
 
