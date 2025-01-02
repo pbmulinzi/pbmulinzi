@@ -1,5 +1,5 @@
 - 👋 Hi, I am Peter Bukama Mulinzi
-- I'm an undergraduate student at Makerere University, Kampala, Uganda.
+- I'm an undergraduate student of Information Systems and Technology at Makerere University, Kampala, Uganda.
 - You can contact me through my email; pbmulinzi@gmail.com
 - #HTML #CSS #Python_Django #SQL
 - 🌱 I am currently practicing my skills; building a Customer Management System
