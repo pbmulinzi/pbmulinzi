@@ -1,7 +1,6 @@
 - 👋 Hi, my name is Peter.
-- I'm a Java Developer.
+- I am a Software Developer.
 - Contact: pbmulinzi@gmail.com
-- #Java #Python_Django #SQL #HTML #CSS 
 - 💞️ I’m diligent and passionate about studying and writing code.
 
 <!---
