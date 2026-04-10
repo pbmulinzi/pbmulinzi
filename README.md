@@ -46,7 +46,7 @@ Software Developer with experience in backend and full-stack development, buildi
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pbmulinzi&show_icons=true&hide_title=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pbmulinzi&show_icons=true&theme=tokyonight&hide_title=true&count_private=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=pbmulinzi)
 
