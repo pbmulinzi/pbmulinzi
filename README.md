@@ -1,9 +1,54 @@
-- 👋 Hi, my name is Peter.
-- I am a Software Developer.
-- Contact: pbmulinzi@gmail.com
-- 💞️ I’m passionate about studying and writing code.
+# Hi 👋 I'm Peter Mulinzi
 
-<!---
-pbmulinzi/pbmulinzi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Software Developer
+
+🌍 Uganda  
+📧 pbmulinzi@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/peter-bukama-mulinzi-a638b9275  
+
+---
+
+## About Me
+Software Developer with experience in backend and full-stack development, building applications using Java (Spring Boot) and Python (Django). I focus on developing scalable systems, RESTful APIs, and writing clean, maintainable code.
+
+---
+
+## Tech Stack & Tools
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
+</p>
+
+---
+
+## Focus Areas
+- Backend development with Spring Boot and Django  
+- REST API design and integration  
+- Writing clean and maintainable code  
+- Exploring software development opportunities  
+
+---
+
+## Open To
+- Software engineering opportunities (backend or full-stack)  
+- Apprenticeship programs  
+- Collaboration on meaningful open-source or personal projects  
+
+---
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pbmulinzi&show_icons=true&hide_title=true&count_private=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=pbmulinzi)
+
+---
+
