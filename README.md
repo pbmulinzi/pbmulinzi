@@ -38,9 +38,9 @@ Software Developer with experience in backend and full-stack development, buildi
 
 
 ## Open To
-- Software engineering opportunities (backend or full-stack)  
+- Software development opportunities   
 - Apprenticeship programs  
-- Collaboration on meaningful open-source or personal projects  
+- Collaboration on any meaningful open-source or personal projects  
 
 
 
