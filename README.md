@@ -20,10 +20,10 @@ public class PeterMulinzi {
  
     public Map<String, String> areasOfInterest() {
         return Map.of(
-            "Backend development",   "SpringBoot and Django",
-            "REST APIs",       "Design and integration",
-            "Code",    "Clean and maintainable",
-            "Opportunities", "All software development opportunities"
+            "Backend development",  "SpringBoot and Django",
+            "REST APIs",            "Design and integration",
+            "Code",                 "Clean and maintainable",
+            "Opportunities",        "All software development opportunities"
         );
     }
  
