@@ -1,17 +1,55 @@
-# Hi 👋 I'm Peter Mulinzi
+# Peter Mulinzi
 
-### Software Developer
+> **Software Developer** · Kampala, Uganda · `#Java_is_bae`
 
-🌍 Uganda  
-📧 Email: pbmulinzi@gmail.com  
-💼 LinkedIn: https://www.linkedin.com/in/peter-bukama-mulinzi-a638b9275  
+📧 pbmulinzi@gmail.com &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/peter-bukama-mulinzi-a638b9275)  
 
+--- 
 
+```java
+public class PeterMulinzi {
+ 
+    private final String role     = "Software Developer";
+    private final String location = "Kampala, Uganda";
+    private final String[] focus  = {
+        "Scalable Backend Architecture",
+        "RESTful API Design & Integration",
+        "Clean, Maintainable Code",
+        "Enterprise Java Applications"
+    };
+ 
+    public Map<String, String> areasOfInterest() {
+        return Map.of(
+            "Backend development",   "SpringBoot and Django",
+            "REST APIs",       "Design and integration",
+            "Code",    "Clean and maintainable",
+            "Opportunities", "All software development opportunities"
+        );
+    }
+ 
+    public String[] techStack() {
+        return new String[]{
+            "Java (Spring & Spring Boot)",
+            "Python (Django)",
+            "MySQL · JPA/Hibernate",
+            "React · JSF/PrimeFaces",
+            "REST APIs · Maven",
+            "Git · AWS S3"
+        };
+    }
+ 
+    public String[] quickFacts() {
+        return new String[]{
+            " Backend-first developer, Java is bae",
+            " Advocate for clean, maintainble architecture & code",
+            " Focused on developing scalable systems & RESTful APIs",
+            " Open to collaboration on meaningful open-source or enterprise projects"
+        };
+    }
+}
+```
 
-## About Me
-Software Developer with experience in backend and full-stack development, building applications using Java (Spring Boot) and Python (Django). I focus on developing scalable systems, RESTful APIs, and writing clean, maintainable code.
-
-
+---
 
 ## Tech Stack & Tools
 
@@ -25,27 +63,21 @@ Software Developer with experience in backend and full-stack development, buildi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
-</p>
-
-
-
-## Focus Areas
-- Backend development with Spring Boot and Django  
-- REST API design and integration  
-- Writing clean and maintainable code  
-- Exploring software development opportunities  
-
-
-
-## Open To
-- Software development opportunities    
-- Collaboration on any meaningful open-source or personal projects  
+</p> 
 
 
 
 ## GitHub Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=pbmulinzi&theme=github-dark-blue)
+
+---
+
+### 🤝 Open To
+ 
+- Software development opportunities (Java / Spring Boot roles)
+- Collaboration on meaningful open-source or enterprise projects
+- Connecting with developers building impactful tech in Africa
 
 
 
