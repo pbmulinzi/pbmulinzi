@@ -15,15 +15,16 @@ public class PeterMulinzi {
         "Scalable Backend Architecture",
         "RESTful API Design & Integration",
         "Clean, Maintainable Code",
-        "Enterprise Java Applications"
+        "Enterprise Applications"
     };
  
     public Map<String, String> areasOfInterest() {
         return Map.of(
-            "Backend development",  "SpringBoot and Django",
-            "REST APIs",            "Design and integration",
-            "Code",                 "Clean and maintainable",
-            "Opportunities",        "All software development opportunities"
+            "Software development",           "Mobile apps, web systems, related tech",
+            "Backend development primarily",  "SpringBoot and Django",
+            "REST APIs",                      "Design and integration",
+            "Code",                           "Clean and maintainable",
+            "Opportunities",                  "All software development opportunities"
         );
     }
  
