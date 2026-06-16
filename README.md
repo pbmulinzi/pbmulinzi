@@ -6,6 +6,7 @@
 
 --- 
 
+## About Me:
 ```java
 public class PeterMulinzi {
  
@@ -52,7 +53,7 @@ public class PeterMulinzi {
 
 ---
 
-## Tech Stack & Tools
+## Tech Stack & Tools:
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
@@ -66,15 +67,15 @@ public class PeterMulinzi {
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
 </p> 
 
+---
 
-
-## GitHub Stats
+## GitHub Stats:
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=pbmulinzi&theme=github-dark-blue)
 
 ---
 
-### 🤝 Open To
+## Open To:
  
 - Software development opportunities (Java / Spring Boot roles)
 - Collaboration on meaningful open-source or enterprise projects
