@@ -2,7 +2,7 @@
 
 > **Software Developer** · Kampala, Uganda · `#Java_is_bae`
 
-📧 pbmulinzi@gmail.com &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/peter-bukama-mulinzi-a638b9275)  
+📧 pbmulinzi@gmail.com &nbsp;|&nbsp; 💼 [https://www.linkedin.com/in/peter-bukama-mulinzi](https://www.linkedin.com/in/peter-bukama-mulinzi-a638b9275)  
 
 --- 
 
