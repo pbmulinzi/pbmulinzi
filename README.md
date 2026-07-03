@@ -33,10 +33,12 @@ public class PeterMulinzi {
         return new String[]{
             "Java (Spring & Spring Boot)",
             "Python (Django)",
-            "MySQL · JPA/Hibernate",
-            "React · JSF/PrimeFaces",
-            "REST APIs · Maven",
-            "Git · AWS S3"
+            "MySQL",
+            "JPA/Hibernate"
+            "JSF/PrimeFaces",
+            "REST APIs",
+            "Maven",
+            "Git"
         };
     }
  
