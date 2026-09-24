@@ -44,7 +44,7 @@ public class PeterMulinzi {
  
     public String[] quickFacts() {
         return new String[]{
-            " Backend-first developer, Java is bae",
+            " Software Engineer, Java is bae",
             " Advocate for clean, maintainble architecture & code",
             " Focused on developing scalable systems & RESTful APIs",
             " Open to collaboration on meaningful open-source or enterprise projects"
