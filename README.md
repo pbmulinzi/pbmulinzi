@@ -13,7 +13,7 @@ public class PeterMulinzi {
     private final String role     = "Software Developer";
     private final String location = "Kampala, Uganda";
     private final String[] focus  = {
-        "Scalable Backend Architecture",
+        "Scalable Software Architecture",
         "RESTful API Design & Integration",
         "Clean, Maintainable Code",
         "Enterprise Applications"
@@ -22,7 +22,6 @@ public class PeterMulinzi {
     public Map<String, String> areasOfInterest() {
         return Map.of(
             "Software development",           "Mobile apps, web systems, related tech",
-            "Backend development primarily",  "SpringBoot and Django",
             "REST APIs",                      "Design and integration",
             "Code",                           "Clean and maintainable",
             "Opportunities",                  "All software development opportunities"
@@ -32,6 +31,7 @@ public class PeterMulinzi {
     public String[] techStack() {
         return new String[]{
             "Java (Spring & Spring Boot)",
+            "Angular",
             "Python (Django)",
             "MySQL",
             "JPA/Hibernate"
