@@ -32,7 +32,7 @@ public class PeterMulinzi {
         return new String[]{
             "Java (Spring & Spring Boot)",
             "Angular",
-            "Python (Django)",
+            "Python",
             "MySQL",
             "JPA/Hibernate"
             "JSF/PrimeFaces",
