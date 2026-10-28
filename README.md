@@ -32,6 +32,8 @@ public class PeterMulinzi {
         return new String[]{
             "Java (Spring & Spring Boot)",
             "Angular",
+            "React",
+            "Next.js",
             "Python",
             "MySQL",
             "JPA/Hibernate"
