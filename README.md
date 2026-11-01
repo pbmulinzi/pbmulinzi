@@ -10,7 +10,7 @@
 ```java
 public class PeterMulinzi {
  
-    private final String role     = "Software Developer";
+    private final String role     = "Software Engineer";
     private final String location = "Kampala, Uganda";
     private final String[] focus  = {
         "Scalable Software Architecture",
