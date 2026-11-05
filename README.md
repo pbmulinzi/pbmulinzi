@@ -23,8 +23,7 @@ public class PeterMulinzi {
         return Map.of(
             "Software development",           "Mobile apps, web systems, related tech",
             "REST APIs",                      "Design and integration",
-            "Code",                           "Clean and maintainable",
-            "Opportunities",                  "All software development opportunities"
+            "Code",                           "Clean and maintainable"
         );
     }
  
